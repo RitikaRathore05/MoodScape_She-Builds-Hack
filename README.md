@@ -1,5 +1,6 @@
-# MoodScape_She-Builds-Hack
-: Prioritise Mental Health - 
+# MoodScape
+
+## ~ Prioritise Mental Health 
 
 
 ![MoodScape_She-Builds-Hack-logo](logo-color.svg)
